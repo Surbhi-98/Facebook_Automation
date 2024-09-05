@@ -1,0 +1,222 @@
+2022-08-26 15:38:16,786 : INFO : test_driver : Facebook – log in or sign up
+2022-08-26 15:38:16,923 : INFO : test_login : Login Successfully
+2022-08-26 15:38:26,811 : INFO : test_Setings : Email validate smilysurbhi@gmail.com
+2022-08-26 15:38:26,839 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 15:38:26,839 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 15:38:27,723 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 15:38:27,723 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 15:38:27,723 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 15:38:29,428 : INFO : test_logout : Logout Successfully
+2022-08-26 16:42:29,406 : INFO : test_driver : Facebook – log in or sign up
+2022-08-26 16:42:29,522 : INFO : test_login : Login Successfully
+2022-08-26 16:42:39,122 : INFO : test_Setings : Email validate smilysurbhi@gmail.com
+2022-08-26 16:42:39,148 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 16:42:39,148 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 16:42:40,001 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:42:40,001 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:42:40,001 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:42:42,014 : INFO : test_logout : Logout Successfully
+2022-08-26 16:43:24,881 : INFO : test_driver : Facebook – log in or sign up
+2022-08-26 16:43:25,007 : INFO : test_login : Login Successfully
+2022-08-26 16:43:31,622 : INFO : wait_clickable : 'NoneType' object has no attribute 'is_displayed'
+2022-08-26 16:43:31,686 : INFO : wait_clickable : Message: chrome not reachable
+  (Session info: chrome=104.0.5112.79)
+Stacktrace:
+#0 0x5585c3daf403 <unknown>
+#1 0x5585c3bb564b <unknown>
+#2 0x5585c3ba5d24 <unknown>
+#3 0x5585c3b96e2e <unknown>
+#4 0x5585c3b9b962 <unknown>
+#5 0x5585c3ba0946 <unknown>
+#6 0x5585c3bb6b72 <unknown>
+#7 0x5585c3c1d2f1 <unknown>
+#8 0x5585c3c0a8f3 <unknown>
+#9 0x5585c3be00d8 <unknown>
+#10 0x5585c3be1205 <unknown>
+#11 0x5585c3df6e3d <unknown>
+#12 0x5585c3df9db6 <unknown>
+#13 0x5585c3de013e <unknown>
+#14 0x5585c3dfa9b5 <unknown>
+#15 0x5585c3dd4970 <unknown>
+#16 0x5585c3e17228 <unknown>
+#17 0x5585c3e173bf <unknown>
+#18 0x5585c3e31abe <unknown>
+#19 0x7ff2387c4609 <unknown>
+
+2022-08-26 16:43:31,686 : INFO : wait_clickable : Message: chrome not reachable
+  (Session info: chrome=104.0.5112.79)
+Stacktrace:
+#0 0x5585c3daf403 <unknown>
+#1 0x5585c3bb564b <unknown>
+#2 0x5585c3ba5d24 <unknown>
+#3 0x5585c3b96e2e <unknown>
+#4 0x5585c3b9b962 <unknown>
+#5 0x5585c3ba0946 <unknown>
+#6 0x5585c3bb6b72 <unknown>
+#7 0x5585c3c1d2f1 <unknown>
+#8 0x5585c3c0a8f3 <unknown>
+#9 0x5585c3be00d8 <unknown>
+#10 0x5585c3be1205 <unknown>
+#11 0x5585c3df6e3d <unknown>
+#12 0x5585c3df9db6 <unknown>
+#13 0x5585c3de013e <unknown>
+#14 0x5585c3dfa9b5 <unknown>
+#15 0x5585c3dd4970 <unknown>
+#16 0x5585c3e17228 <unknown>
+#17 0x5585c3e173bf <unknown>
+#18 0x5585c3e31abe <unknown>
+#19 0x7ff2387c4609 <unknown>
+
+2022-08-26 16:43:53,829 : INFO : test_driver : Facebook – log in or sign up
+2022-08-26 16:43:53,984 : INFO : test_login : Login Successfully
+2022-08-26 16:44:03,172 : INFO : wait_clickable : 'NoneType' object has no attribute 'is_displayed'
+2022-08-26 16:44:03,198 : INFO : wait_clickable : Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=104.0.5112.79)
+Stacktrace:
+#0 0x555c9a73d403 <unknown>
+#1 0x555c9a543778 <unknown>
+#2 0x555c9a5247f8 <unknown>
+#3 0x555c9a59bf6b <unknown>
+#4 0x555c9a5ab2a5 <unknown>
+#5 0x555c9a5988f3 <unknown>
+#6 0x555c9a56e0d8 <unknown>
+#7 0x555c9a56f205 <unknown>
+#8 0x555c9a784e3d <unknown>
+#9 0x555c9a787db6 <unknown>
+#10 0x555c9a76e13e <unknown>
+#11 0x555c9a7889b5 <unknown>
+#12 0x555c9a762970 <unknown>
+#13 0x555c9a7a5228 <unknown>
+#14 0x555c9a7a53bf <unknown>
+#15 0x555c9a7bfabe <unknown>
+#16 0x7ff59eb2c609 <unknown>
+
+2022-08-26 16:44:03,198 : INFO : wait_clickable : Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=104.0.5112.79)
+Stacktrace:
+#0 0x555c9a73d403 <unknown>
+#1 0x555c9a543778 <unknown>
+#2 0x555c9a5247f8 <unknown>
+#3 0x555c9a59bf6b <unknown>
+#4 0x555c9a5ab2a5 <unknown>
+#5 0x555c9a5988f3 <unknown>
+#6 0x555c9a56e0d8 <unknown>
+#7 0x555c9a56f205 <unknown>
+#8 0x555c9a784e3d <unknown>
+#9 0x555c9a787db6 <unknown>
+#10 0x555c9a76e13e <unknown>
+#11 0x555c9a7889b5 <unknown>
+#12 0x555c9a762970 <unknown>
+#13 0x555c9a7a5228 <unknown>
+#14 0x555c9a7a53bf <unknown>
+#15 0x555c9a7bfabe <unknown>
+#16 0x7ff59eb2c609 <unknown>
+
+2022-08-26 16:44:14,041 : INFO : test_driver : Facebook – log in or sign up
+2022-08-26 16:44:14,174 : INFO : test_login : Login Successfully
+2022-08-26 16:44:24,717 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x55674b120403 <unknown>
+#1 0x55674af26778 <unknown>
+#2 0x55674af5dc87 <unknown>
+#3 0x55674af5de51 <unknown>
+#4 0x55674af90f24 <unknown>
+#5 0x55674af7ba2d <unknown>
+#6 0x55674af8ec74 <unknown>
+#7 0x55674af7b8f3 <unknown>
+#8 0x55674af510d8 <unknown>
+#9 0x55674af52205 <unknown>
+#10 0x55674b167e3d <unknown>
+#11 0x55674b16adb6 <unknown>
+#12 0x55674b15113e <unknown>
+#13 0x55674b16b9b5 <unknown>
+#14 0x55674b145970 <unknown>
+#15 0x55674b188228 <unknown>
+#16 0x55674b1883bf <unknown>
+#17 0x55674b1a2abe <unknown>
+#18 0x7f37018c5609 <unknown>
+
+2022-08-26 16:44:45,316 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x55674b120403 <unknown>
+#1 0x55674af26778 <unknown>
+#2 0x55674af5dc87 <unknown>
+#3 0x55674af5de51 <unknown>
+#4 0x55674af90f24 <unknown>
+#5 0x55674af7ba2d <unknown>
+#6 0x55674af8ec74 <unknown>
+#7 0x55674af7b8f3 <unknown>
+#8 0x55674af510d8 <unknown>
+#9 0x55674af52205 <unknown>
+#10 0x55674b167e3d <unknown>
+#11 0x55674b16adb6 <unknown>
+#12 0x55674b15113e <unknown>
+#13 0x55674b16b9b5 <unknown>
+#14 0x55674b145970 <unknown>
+#15 0x55674b188228 <unknown>
+#16 0x55674b1883bf <unknown>
+#17 0x55674b1a2abe <unknown>
+#18 0x7f37018c5609 <unknown>
+
+2022-08-26 16:44:45,316 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x55674b120403 <unknown>
+#1 0x55674af26778 <unknown>
+#2 0x55674af5dc87 <unknown>
+#3 0x55674af5de51 <unknown>
+#4 0x55674af90f24 <unknown>
+#5 0x55674af7ba2d <unknown>
+#6 0x55674af8ec74 <unknown>
+#7 0x55674af7b8f3 <unknown>
+#8 0x55674af510d8 <unknown>
+#9 0x55674af52205 <unknown>
+#10 0x55674b167e3d <unknown>
+#11 0x55674b16adb6 <unknown>
+#12 0x55674b15113e <unknown>
+#13 0x55674b16b9b5 <unknown>
+#14 0x55674b145970 <unknown>
+#15 0x55674b188228 <unknown>
+#16 0x55674b1883bf <unknown>
+#17 0x55674b1a2abe <unknown>
+#18 0x7f37018c5609 <unknown>
+
+2022-08-26 16:45:18,750 : INFO : wait_clickable : 'NoneType' object has no attribute 'is_displayed'
+2022-08-26 16:45:18,750 : INFO : wait_clickable : 'NoneType' object has no attribute 'is_displayed'
+2022-08-26 16:45:18,750 : INFO : wait_clickable : 'NoneType' object has no attribute 'is_displayed'
+2022-08-26 16:45:38,102 : INFO : test_driver : Facebook – log in or sign up
+2022-08-26 16:45:38,222 : INFO : test_login : Login Successfully
+2022-08-26 16:45:47,475 : INFO : test_Setings : Email validate smilysurbhi@gmail.com
+2022-08-26 16:45:47,500 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 16:45:47,500 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 16:45:48,370 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:45:48,370 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:45:48,370 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:45:50,957 : INFO : test_logout : Logout Successfully
+2022-08-26 16:49:52,729 : INFO : test_driver : Facebook – log in or sign up
+2022-08-26 16:49:52,851 : INFO : test_login : Login Successfully
+2022-08-26 16:50:04,806 : INFO : test_Setings : Email validate smilysurbhi@gmail.com
+2022-08-26 16:50:04,822 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 16:50:04,822 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 16:50:04,823 : INFO : test_Setings : Assertion successfully Done
+2022-08-26 16:50:04,823 : INFO : test_Setings : Assertion successfully Done
+2022-08-26 16:50:04,823 : INFO : test_Setings : Assertion successfully Done
+2022-08-26 16:50:05,729 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:50:05,729 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:50:05,729 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:50:05,729 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 16:50:07,742 : INFO : test_logout : Logout Successfully
+2022-08-26 17:08:00,804 : INFO : test_driver : Facebook – log in or sign up
+2022-08-26 17:08:00,934 : INFO : test_login_page : Login Successfully
+2022-08-26 17:08:13,057 : INFO : test_Setings : Email validate smilysurbhi@gmail.com
+2022-08-26 17:08:13,081 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 17:08:13,081 : INFO : test_Setings : User name validate Surbhi Agrahari
+2022-08-26 17:08:13,082 : INFO : test_Setings : Assertion successfully Done
+2022-08-26 17:08:13,082 : INFO : test_Setings : Assertion successfully Done
+2022-08-26 17:08:13,082 : INFO : test_Setings : Assertion successfully Done
+2022-08-26 17:08:14,182 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 17:08:14,182 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 17:08:14,182 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 17:08:14,182 : INFO : test_Setings : Total no. of user blocked - 2
+2022-08-26 17:08:16,035 : INFO : test_logout : Logout Successfully
